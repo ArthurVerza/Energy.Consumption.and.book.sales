@@ -1,1 +1,1 @@
-Project develop analysing two different datasets. One dataset is about energy comsuption and the other one is about book sales. Was used MBA(Market Basket Analysis), Data visualisation, python, at jupyter notebook.
+Project development analysis of two different datasets. One dataset is about energy consumption and the other one is about book sales. Was used MBA(Market Basket Analysis), Data visualization, python, at Jupyter Notebook. It was part of my assessments for my degree in Data Analysis for Business at CCT College - Dublin
